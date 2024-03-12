@@ -1,20 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T07:43:41.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JZszmTlHRkv08e7SrjsX" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:19:05.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9Jo8RwG6sHH3PcdwHZif" version="24.0.5" type="github">
   <diagram name="Page-1" id="Am-4yuEEbxHZaaMcZNw2">
-    <mxGraphModel dx="1120" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="437" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0APZrc8GkW91wkG1R6Uz-1" value="USE CASE DIAGRAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="10" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0APZrc8GkW91wkG1R6Uz-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="190" width="30" height="60" as="geometry" />
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-2" value="PPC/Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0APZrc8GkW91wkG1R6Uz-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="540" height="540" as="geometry" />
         </mxCell>
         <mxCell id="0APZrc8GkW91wkG1R6Uz-4" value="&amp;nbsp;Sistem Pengelolaan SPK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="335" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-5" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-6" value="Input data login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-7" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-8" value="Melihat Dashboard SPK" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-9" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0APZrc8GkW91wkG1R6Uz-10" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
