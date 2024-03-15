@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T06:39:35.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="57TCI_X4GWNAmuXs7jZN" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T04:02:17.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="H-v2nSNiGFmv17PAhCVA" version="24.0.6" type="github">
   <diagram name="Page-1" id="Am-4yuEEbxHZaaMcZNw2">
-    <mxGraphModel dx="2820" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="1434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
         <mxCell id="pinABx_WeCuEf0bmrsNE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1059" y="51" width="1010" height="1009" as="geometry" />
         </mxCell>
-        <mxCell id="pinABx_WeCuEf0bmrsNE-4" value="User" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="pinABx_WeCuEf0bmrsNE-4" value="Operator" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-805" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pinABx_WeCuEf0bmrsNE-5" value="Admin" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -334,7 +334,7 @@
             <mxPoint x="-434.9999999999999" y="79.83999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hy7TB0UM2S-catEz_fpQ-2" value="Operator" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="Hy7TB0UM2S-catEz_fpQ-2" value="User" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-590" y="70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.289;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -721,10 +721,10 @@
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hy7TB0UM2S-catEz_fpQ-116" target="Hy7TB0UM2S-catEz_fpQ-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hy7TB0UM2S-catEz_fpQ-116" value="Olah Data Gudang" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="Hy7TB0UM2S-catEz_fpQ-116" value="Read Data Gudang" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-795.5" y="520" width="81" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Hy7TB0UM2S-catEz_fpQ-120" value="Olah Data Permesinan" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="Hy7TB0UM2S-catEz_fpQ-120" value="Read Data Permesinan" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-720" y="426" width="70" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -733,9 +733,6 @@
             <mxPoint x="-960" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hy7TB0UM2S-catEz_fpQ-127" value="Produksi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-764.5" y="439" width="10" height="2" as="geometry" />
-        </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.087;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-804.56" y="405.03" as="sourcePoint" />
@@ -743,7 +740,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-132" value="Gudang" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-786" y="473" width="10" height="2" as="geometry" />
+          <mxGeometry x="-564" y="473" width="10" height="2" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hy7TB0UM2S-catEz_fpQ-134" target="Hy7TB0UM2S-catEz_fpQ-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -760,13 +757,13 @@
             <mxPoint x="-584" y="431" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hy7TB0UM2S-catEz_fpQ-136" value="Read Data Permesinan" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="Hy7TB0UM2S-catEz_fpQ-136" value="Olah Data Permesinan" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="426" width="70" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hy7TB0UM2S-catEz_fpQ-138" target="Hy7TB0UM2S-catEz_fpQ-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hy7TB0UM2S-catEz_fpQ-138" value="Read Data Permesinan" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="Hy7TB0UM2S-catEz_fpQ-138" value="Olah Data Permesinan" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-575" y="516" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Hy7TB0UM2S-catEz_fpQ-140" target="pinABx_WeCuEf0bmrsNE-9" edge="1">
@@ -902,7 +899,7 @@
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-192" value="&lt;b&gt;User&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-786" y="860" width="216" height="90" as="geometry" />
+          <mxGeometry x="-531" y="860" width="216" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-193" value="Produksi" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Hy7TB0UM2S-catEz_fpQ-192" vertex="1">
           <mxGeometry y="30" width="216" height="30" as="geometry" />
@@ -911,7 +908,7 @@
           <mxGeometry y="60" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-196" value="&lt;b&gt;Operator&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="860" width="240" height="90" as="geometry" />
+          <mxGeometry x="-789" y="860" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Hy7TB0UM2S-catEz_fpQ-197" value="PLP" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Hy7TB0UM2S-catEz_fpQ-196" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -954,6 +951,9 @@
             <mxPoint x="1190" y="890" as="sourcePoint" />
             <mxPoint x="780" y="716" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z45EHyeaRnvxxGlhXkzE-1" value="Produksi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-548.5" y="439" width="10" height="2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
